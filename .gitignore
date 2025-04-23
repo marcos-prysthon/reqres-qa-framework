@@ -1,0 +1,21 @@
+# Node dependencies
+node_modules/
+
+# Playwright test outputs
+test-results/
+playwright-report/
+
+# Environment and logs
+.env
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode and JetBrains IDEs
+.vscode/
+.idea/
+
+# Optional: ignore coverage if using a tool later
+coverage/

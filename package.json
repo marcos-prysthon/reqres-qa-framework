@@ -1,0 +1,15 @@
+{
+  "name": "reqres-qa-framework",
+  "version": "1.0.0",
+  "description": "This project is a full-featured **QA test automation framework** targeting the [Reqres API](https://reqres.in) and its UI counterpart built in React ([React-Reqres UI](https://github.com/bramantyobk/react-reqres)).   It is designed to simulate real-world QA engineering workflows for both **API** and **UI testing** using modern tools and practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  }
+}
